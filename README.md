@@ -24,5 +24,5 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/tarodictrl/count.svg" />
+  ![Snake animation](https://github.com/Tarodictrl/Tarodictrl/tree/output/github-contribution-grid-snake.svg)
 </p>
