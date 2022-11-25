@@ -1,3 +1,4 @@
+<body>
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://vk.com/dt.danil">
   <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />
@@ -20,9 +21,11 @@
 ### GitHub Stats:
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Tarodictrl&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
-<a href=#><img src=".github-contribution-grid-snake.svg"></a>
-
 <p align="center"> 
   Visitor count<br>
-  ![Snake animation](https://github.com/Tarodictrl/Tarodictrl/tree/output/github-contribution-grid-snake.svg)
+  <img src="https://profile-counter.glitch.me/tarodictrl/count.svg" />
 </p>
+
+![Snake animation](https://github.com/tarodictrl/tarodictrl/blob/output/github-contribution-grid-snake.svg)
+  
+ </body>
