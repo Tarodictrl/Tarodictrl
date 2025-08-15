@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Daniil</a>
+<h1 align="center">Hi there, I'm <a href="https://detter.ru/" target="_blank">Daniil</a>
   
 [![codewars](https://www.codewars.com/users/Tarodictrl/badges/small)](https://www.codewars.com/users/Tarodictrl)
   
